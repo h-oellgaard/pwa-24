@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "pwe-teat",
+    "production": "newproject-80dc3"
+  },
+  "targets": {},
+  "etags": {}
+}
